@@ -1,0 +1,60 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.container{
+  width:1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+header{
+  text-align: center;
+}
+
+img{
+  width: 200px;
+}
+
+h1{
+  color:rgb(0, 221, 0);
+}
+
+.navigation{
+  background-color: rgb(0, 221, 0);
+  text-align: center;
+  height: 20px;
+  margin: auto;
+  width: 800px;
+  padding: 10px;
+}
+
+main{
+  padding: 100px;
+}
+
+section > h2  {
+  display: inline-block;
+font-family: cursive;
+}
+
+.status{
+  height: 25px;
+  border-radius: 10px;
+}
+
+.first{
+  background-color: orange;
+  width: 300px;
+}
+
+.second{
+  background-color: green;
+  width: 500px;
+}
+
+.third{
+  background-color: red;
+  width: 150px;
+}
